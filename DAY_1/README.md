@@ -1,8 +1,6 @@
 DAY 1 
 
 
-# PySpark Data Analysis README
-
 ## Overview
 
 This README provides an overview of a PySpark data analysis script designed to explore and analyze a dataset. The script uses PySpark to load and perform basic operations on the dataset.
