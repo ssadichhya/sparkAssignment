@@ -1,5 +1,4 @@
-# PySpark Data Analysis Script
-
+#DAY-4
 ## Requirements
 
 Before running the script, ensure that you have the following prerequisites:
